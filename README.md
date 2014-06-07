@@ -4,6 +4,8 @@ try-localforage
 Overview
 ---------------
 
+![Preview Image](preview/preview.png)
+
 Try [localforage](https://github.com/mozilla/localForage) with Chaplin.
 
 * CoffeeScript
