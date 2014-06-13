@@ -27,6 +27,7 @@ Try
 ---------------
 
 ``` sh
+$ ulimit -n 10000
 $ brunch watch --server
 ```
 
